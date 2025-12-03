@@ -22,7 +22,21 @@ Retrieval-Augmented Generation (RAG) system built with IBM watsonx.ai, LangChain
 </p>
 
 ---
+## 📸 App Screenshot
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kbello90/Gen_AI_Chatbot/main/app_test.jpg" 
+       alt="App Screenshot" width="80%">
+</p>
+
+## 🎥 Demo Video (MP4)
+
+<p align="center">
+  <video width="80%" controls>
+    <source src="https://raw.githubusercontent.com/kbello90/Gen_AI_Chatbot/main/Chatbot.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 
 
