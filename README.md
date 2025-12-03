@@ -23,13 +23,9 @@ Retrieval-Augmented Generation (RAG) system built with IBM watsonx.ai, LangChain
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/user/repo/main/assets/divider.png" width="60%" />
-</p>
 
----
+
+
 <p align="center">
-  <a href="https://youtu.be/yourvideoID">
-    <img src="https://raw.githubusercontent.com/user/repo/main/assets/demo-thumbnail.png" width="70%" />
-  </a>
+  🎥 <b><a href="https://youtu.be//BIZeFo50uPU">Watch the Demo Video</a></b>
 </p>
